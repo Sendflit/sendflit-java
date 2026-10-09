@@ -1,6 +1,6 @@
 # com.sendflit:sendflit — Java
 
-Transactional email for applications and AI agents. Zero dependencies (java.net.http, Java 11+).
+Transactional email for applications and AI agents. Zero dependencies (java.net.http, Java 17+).
 
 ## Install
 
